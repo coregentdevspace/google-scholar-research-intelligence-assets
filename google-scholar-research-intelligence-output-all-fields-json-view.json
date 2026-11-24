@@ -1,0 +1,1002 @@
+[
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:yZekOQyLNpQJ",
+    "identityConfidence": "high",
+    "title": "Retrieval-augmented generation for knowledge-intensive nlp tasks",
+    "sourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2020/hash/6b493230-Abstract.html",
+    "providerPaperId": "yZekOQyLNpQJ",
+    "scholarClusterId": "10679876450978666441",
+    "versionCount": 24,
+    "publicationInfoRaw": "P Lewis, E Perez, A Piktus, F Petroni... - Advances in neural ..., 2020 - proceedings.neurips.cc",
+    "publicationYear": 2020,
+    "snippet": "... generation models with a non-parametric memory through a general-purpose fine-tuning approach which we refer to as retrieval-augmented generation ... both the generator and retriever ...",
+    "scholarCitedByCount": 35660,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf?ref=https://githubhelp.com",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 1,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 1
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:n-Dos_IElyIJ",
+    "identityConfidence": "high",
+    "title": "Searching for best practices in retrieval-augmented generation",
+    "sourceUrl": "https://aclanthology.org/2024.emnlp-main.981/",
+    "providerPaperId": "n-Dos_IElyIJ",
+    "scholarClusterId": "2492466359219839135",
+    "versionCount": 4,
+    "publicationInfoRaw": "X Wang, Z Wang, X Gao, F Zhang, Y Wu... - Proceedings of the ..., 2024 - aclanthology.org",
+    "publicationYear": 2024,
+    "snippet": "... optimal practices for implementing retrieval-augmented generation in order to improve the ... retrieval-augmented generation systems but also establish a foundation for future research. ...",
+    "scholarCitedByCount": 458,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://aclanthology.org/2024.emnlp-main.981.pdf",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 2,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 2
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:mVAJ-wKiRCcJ",
+    "identityConfidence": "high",
+    "title": "Active retrieval augmented generation",
+    "sourceUrl": "https://aclanthology.org/2023.emnlp-main.495/",
+    "providerPaperId": "mVAJ-wKiRCcJ",
+    "scholarClusterId": "2829564599580840089",
+    "versionCount": 10,
+    "publicationInfoRaw": "Z Jiang, FF Xu, L Gao, Z Sun, Q Liu... - Proceedings of the ..., 2023 - aclanthology.org",
+    "publicationYear": 2023,
+    "snippet": "... gathering information throughout generation is essential. In ... retrieval augmented generation, methods that actively decide when and what to retrieve across the course of the generation. ...",
+    "scholarCitedByCount": 2068,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://aclanthology.org/2023.emnlp-main.495.pdf",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 3,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 3
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:ZthzJtL6eSwJ",
+    "identityConfidence": "high",
+    "title": "Evaluation of retrieval-augmented generation: A survey",
+    "sourceUrl": "https://link.springer.com/chapter/10.1007/978-981-96-1024-2_8",
+    "providerPaperId": "ZthzJtL6eSwJ",
+    "scholarClusterId": "3204868390346020966",
+    "versionCount": 3,
+    "publicationInfoRaw": "H Yu, A Gan, K Zhang, S Tong, Q Liu, Z Liu - CCF Conference on Big Data, 2024 - Springer",
+    "publicationYear": 2024,
+    "snippet": "... Retrieval-Augmented Generation (RAG) has recently gained ... through external information retrieval. Evaluating these RAG ... metrics of the Retrieval and Generation components, such as ...",
+    "scholarCitedByCount": 660,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://arxiv.org/pdf/2405.07437",
+    "matchedTopics": [
+      "rag",
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation",
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 2,
+    "bestPosition": 3,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 4
+      },
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 3
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:nNeQ8_b1kwwJ",
+    "identityConfidence": "high",
+    "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation.",
+    "sourceUrl": "https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.568.pdf",
+    "providerPaperId": "nNeQ8_b1kwwJ",
+    "scholarClusterId": "906338391028717468",
+    "versionCount": 8,
+    "publicationInfoRaw": "Z Guo, L Xia, Y Yu, T Ao, C Huang - EMNLP (Findings), 2025 - aclanthology.org",
+    "publicationYear": 2025,
+    "snippet": "... in LLMempowered Retrieval-Augmented Generation through the ... retrieval. LightRAG utilizes a comprehensive knowledge graph to facilitate rapid and relevant document retrieval, ...",
+    "scholarCitedByCount": 1132,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.568.pdf",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 5,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 5
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:l5Kdv79uXpQJ",
+    "identityConfidence": "high",
+    "title": "Graph retrieval-augmented generation: A survey",
+    "sourceUrl": "https://dl.acm.org/doi/abs/10.1145/3777378",
+    "providerPaperId": "l5Kdv79uXpQJ",
+    "scholarClusterId": "10691104335256720023",
+    "versionCount": 3,
+    "publicationInfoRaw": "B Peng, Y Zhu, Y Liu, X Bo, H Shi, C Hong... - ACM Transactions on ..., 2025 - dl.acm.org",
+    "publicationYear": 2025,
+    "snippet": "... by integrating a retrieval component within the generation process. ... (3) Lacking Global Information: RAG can only retrieve a ... be used in the retrieval and generation stages: Graph Neural ...",
+    "scholarCitedByCount": 1101,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://dl.acm.org/doi/pdf/10.1145/3777378",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 6,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 6
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:Q4VG3aY8O2oJ",
+    "identityConfidence": "high",
+    "title": "Retrieval-augmented generation for ai-generated content: A survey",
+    "sourceUrl": "https://link.springer.com/article/10.1007/s41019-025-00335-5",
+    "providerPaperId": "Q4VG3aY8O2oJ",
+    "scholarClusterId": "7654778679020913987",
+    "versionCount": 6,
+    "publicationInfoRaw": "P Zhao, H Zhang, Q Yu, Z Wang, Y Geng, F Fu... - Data Science and ..., 2026 - Springer",
+    "publicationYear": 2026,
+    "snippet": "... to improve the generation process. There are several foundational paradigms (... how the retrieved results augment the generation: they can serve as augmented inputs to the generator [...",
+    "scholarCitedByCount": 1208,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s41019-025-00335-5.pdf",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 7,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 7
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:aqeJ38A04ZwJ",
+    "identityConfidence": "high",
+    "title": "Chain-of-retrieval augmented generation",
+    "sourceUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/566aad4fac1acf17fd1ae8c3aef75326-Abstract-Conference.html",
+    "providerPaperId": "aqeJ38A04ZwJ",
+    "scholarClusterId": "11304374542665361258",
+    "versionCount": 7,
+    "publicationInfoRaw": "L Wang, H Chen, N Yang, X Huang... - Advances in Neural ..., 2026 - proceedings.neurips.cc",
+    "publicationYear": 2026,
+    "snippet": "... language models to retrieve step by step. To ... augment existing RAG datasets with intermediate retrieval chains. Open-source language models are then fine-tuned on these augmented ...",
+    "scholarCitedByCount": 114,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://proceedings.neurips.cc/paper_files/paper/2025/file/566aad4fac1acf17fd1ae8c3aef75326-Paper-Conference.pdf",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 8,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 8
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:qTldwqUWOZcJ",
+    "identityConfidence": "high",
+    "title": "Retrieval-augmented generation for natural language processing: A survey",
+    "sourceUrl": "https://link.springer.com/article/10.1007/s10462-026-11605-7",
+    "providerPaperId": "qTldwqUWOZcJ",
+    "scholarClusterId": "10896765674585930153",
+    "versionCount": 15,
+    "publicationInfoRaw": "S Wu, Y Xiong, Y Cui, H Wu, C Chen, Y Yuan... - Artificial Intelligence ..., 2026 - Springer",
+    "publicationYear": 2026,
+    "snippet": "... of retrieval-augmented generation (RAG), which leverages an external knowledge base to augment ... ), with a focus on retrievers and retrieval fusions. We introduce a novel taxonomy of ...",
+    "scholarCitedByCount": 348,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s10462-026-11605-7.pdf",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 9,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 9
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:UZPJITMyh18J",
+    "identityConfidence": "high",
+    "title": "Longrag: Enhancing retrieval-augmented generation with long-context llms",
+    "sourceUrl": "https://arxiv.org/abs/2406.15319",
+    "providerPaperId": "UZPJITMyh18J",
+    "scholarClusterId": "6883525750650671953",
+    "versionCount": 2,
+    "publicationInfoRaw": "Z Jiang, X Ma, W Chen - arXiv preprint arXiv:2406.15319, 2024 - arxiv.org",
+    "publicationYear": 2024,
+    "snippet": "... retrieve the top k retrieval units closest to the given query. For efficient retrieval, we precompute the embedding of each retrieval ... of the retrieval-augmented generation pipeline remains ...",
+    "scholarCitedByCount": 220,
+    "citationCountObservedAt": "2026-11-24T02:48:48.837Z",
+    "pdfUrl": "https://arxiv.org/pdf/2406.15319?",
+    "matchedTopics": [
+      "rag"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 10,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag"
+        ],
+        "queryId": "q031abfa1",
+        "query": "retrieval augmented generation",
+        "queryIndex": 0,
+        "page": 1,
+        "position": 10
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:48.837Z",
+    "lastObservedAt": "2026-11-24T02:48:48.837Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:LuYtWMHnxnYJ",
+    "identityConfidence": "high",
+    "title": "Evaluating retrieval quality in retrieval-augmented generation",
+    "sourceUrl": "https://dl.acm.org/doi/abs/10.1145/3626772.3657957",
+    "providerPaperId": "LuYtWMHnxnYJ",
+    "scholarClusterId": "8558782959458313774",
+    "versionCount": 4,
+    "publicationInfoRaw": "A Salemi, H Zamani - ... and Development in Information Retrieval, 2024 - dl.acm.org",
+    "publicationYear": 2024,
+    "snippet": "... 0.168 and 0.494 across the evaluated datasets. Furthermore, we investigate the impact of different retrieval augmentation methods, the quantity of retrieved documents, and the LLM ...",
+    "scholarCitedByCount": 444,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://dl.acm.org/doi/pdf/10.1145/3626772.3657957",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 1,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 1
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:_dd_vZMYI_MJ",
+    "identityConfidence": "high",
+    "title": "Ragas: Automated evaluation of retrieval augmented generation",
+    "sourceUrl": "https://aclanthology.org/2024.eacl-demo.16/",
+    "providerPaperId": "_dd_vZMYI_MJ",
+    "scholarClusterId": "17519873998219892733",
+    "versionCount": 6,
+    "publicationInfoRaw": "S Es, J James, LE Anke... - Proceedings of the 18th ..., 2024 - aclanthology.org",
+    "publicationYear": 2024,
+    "snippet": "... that simply adding retrieved documents to the ... retrievalaugmented strategies in combination with LLMs that are only available through APIs. While the usefulness of retrieval-augmented ...",
+    "scholarCitedByCount": 3105,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://aclanthology.org/2024.eacl-demo.16.pdf",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 2,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 2
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:AOSOOSunkf8J",
+    "identityConfidence": "high",
+    "title": "Retrieval augmented generation evaluation in the era of large language models: A comprehensive survey",
+    "sourceUrl": "https://arxiv.org/abs/2504.14891",
+    "providerPaperId": "AOSOOSunkf8J",
+    "scholarClusterId": "18415684155385766912",
+    "versionCount": 3,
+    "publicationInfoRaw": "A Gan, H Yu, K Zhang, Q Liu, W Yan, Z Huang... - arXiv preprint arXiv ..., 2025 - arxiv.org",
+    "publicationYear": 2025,
+    "snippet": "... Abstract Recent advancements in Retrieval-Augmented Generation (RAG) have ... ternal information retrieval, enabling accurate, up-to-date, and verifiable text generation across diverse ...",
+    "scholarCitedByCount": 136,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://arxiv.org/pdf/2504.14891?",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 4,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 4
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:Ucmd9L_gwzYJ",
+    "identityConfidence": "high",
+    "title": "Benchmarking large language models in retrieval-augmented generation",
+    "sourceUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/29728",
+    "providerPaperId": "Ucmd9L_gwzYJ",
+    "scholarClusterId": "3946244813554043217",
+    "versionCount": 5,
+    "publicationInfoRaw": "J Chen, H Lin, X Han, L Sun - Proceedings of the AAAI conference on ..., 2024 - ojs.aaai.org",
+    "publicationYear": 2024,
+    "snippet": "... In this paper, we evaluated four abilities of retrievalaugmented generation in LLMs: noise robustness, negative rejection, information integration, and counterfactual robustness. To ...",
+    "scholarCitedByCount": 1493,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/29728/31250",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 5,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 5
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:9DUFlo_MlJsJ",
+    "identityConfidence": "high",
+    "title": "Ares: An automated evaluation framework for retrieval-augmented generation systems",
+    "sourceUrl": "https://aclanthology.org/2024.naacl-long.20/",
+    "providerPaperId": "9DUFlo_MlJsJ",
+    "scholarClusterId": "11210810289501320692",
+    "versionCount": 4,
+    "publicationInfoRaw": "J Saad-Falcon, O Khattab, C Potts... - Proceedings of the 2024 ..., 2024 - aclanthology.org",
+    "publicationYear": 2024,
+    "snippet": "... Evaluating retrieval-augmented generation (RAG) systems ... , an Automated RAG Evaluation System, for evaluating RAG ... hundred human annotations during evaluation. Furthermore, ...",
+    "scholarCitedByCount": 761,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://aclanthology.org/2024.naacl-long.20.pdf",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 6,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 6
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:rXM5QebBdWoJ",
+    "identityConfidence": "high",
+    "title": "Fact, fetch, and reason: A unified evaluation of retrieval-augmented generation",
+    "sourceUrl": "https://aclanthology.org/2025.naacl-long.243/",
+    "providerPaperId": "rXM5QebBdWoJ",
+    "scholarClusterId": "7671250734976431021",
+    "versionCount": 4,
+    "publicationInfoRaw": "S Krishna, K Krishna, A Mohananey... - Proceedings of the ..., 2025 - aclanthology.org",
+    "publicationYear": 2025,
+    "snippet": "... retrieval to analyze the impact of retrieval on performance. (2) Multi-Step Evaluations (Section 3.2): In this case, we evaluate ... retrieval is explicitly required. The motivation for multi-step ...",
+    "scholarCitedByCount": 274,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://aclanthology.org/2025.naacl-long.243.pdf",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 7,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 7
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:J_9FcdIMVK4J",
+    "identityConfidence": "high",
+    "title": "Retrieval-augmented generation: A comprehensive survey of architectures, enhancements, and robustness frontiers",
+    "sourceUrl": "https://arxiv.org/abs/2506.00054",
+    "providerPaperId": "J_9FcdIMVK4J",
+    "scholarClusterId": "12561679358626234151",
+    "versionCount": 3,
+    "publicationInfoRaw": "C Sharma - arXiv preprint arXiv:2506.00054, 2025 - arxiv.org",
+    "publicationYear": 2025,
+    "snippet": "... of design innovations in Retrieval-Augmented Generation (RAG), this section presents a comparative analysis of representative frameworks across three key evaluation settings: short-...",
+    "scholarCitedByCount": 172,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://arxiv.org/pdf/2506.00054",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 8,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 8
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:8UXn2s9PV0gJ",
+    "identityConfidence": "high",
+    "title": "A systematic literature review of retrieval-augmented generation: Techniques, metrics, and challenges",
+    "sourceUrl": "https://arxiv.org/abs/2508.06401",
+    "providerPaperId": "8UXn2s9PV0gJ",
+    "scholarClusterId": "5212722847854052849",
+    "versionCount": 5,
+    "publicationInfoRaw": "A Brown, M Roman, B Devereux - arXiv preprint arXiv:2508.06401, 2025 - arxiv.org",
+    "publicationYear": 2025,
+    "snippet": "... Abstract—This systematic review of the research literature on retrieval-augmented generation (... used metrics for evaluating the effectiveness of retrieval-augmented generation systems? ...",
+    "scholarCitedByCount": 144,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://arxiv.org/pdf/2508.06401?",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 9,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 9
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  },
+  {
+    "recordType": "paper",
+    "schemaVersion": "1.0",
+    "watchId": "readme-screenshot-watch",
+    "mode": "baseline",
+    "canonicalPaperKey": "scholar:A4L9UJouY-QJ",
+    "identityConfidence": "high",
+    "title": "Benchmarking retrieval-augmented generation for medicine",
+    "sourceUrl": "https://aclanthology.org/2024.findings-acl.372/",
+    "providerPaperId": "A4L9UJouY-QJ",
+    "scholarClusterId": "16457048703660556803",
+    "versionCount": 5,
+    "publicationInfoRaw": "G Xiong, Q Jin, Z Lu, A Zhang - Findings of the Association for ..., 2024 - aclanthology.org",
+    "publicationYear": 2024,
+    "snippet": "... Retrievalaugmented generation (RAG) is a promising solution and has been widely ... evaluate such systems, we propose the Medical Information Retrieval-Augmented Generation ...",
+    "scholarCitedByCount": 1025,
+    "citationCountObservedAt": "2026-11-24T02:48:49.769Z",
+    "pdfUrl": "https://aclanthology.org/2024.findings-acl.372.pdf",
+    "matchedTopics": [
+      "rag-eval"
+    ],
+    "matchedQueries": [
+      "retrieval augmented generation evaluation"
+    ],
+    "queryMatchCount": 1,
+    "bestPosition": 10,
+    "queryMatches": [
+      {
+        "topicIds": [
+          "rag-eval"
+        ],
+        "queryId": "q81879209",
+        "query": "retrieval augmented generation evaluation",
+        "queryIndex": 1,
+        "page": 1,
+        "position": 10
+      }
+    ],
+    "monitorState": "BASELINE_OBSERVATION",
+    "previousCitationCount": null,
+    "citationCountDelta": null,
+    "previousCitationObservedAt": null,
+    "firstObservedAt": "2026-11-24T02:48:49.769Z",
+    "lastObservedAt": "2026-11-24T02:48:49.769Z",
+    "source": "serper.scholar",
+    "coverageStatus": "sampled",
+    "limitations": [
+      "search_sample_not_exhaustive",
+      "publication_info_unparsed"
+    ],
+    "billed": true
+  }
+]
